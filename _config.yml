@@ -9,13 +9,11 @@ lsi: false
 markdown: kramdown
 
 ### content configuration ###
-title:       "Automatic Summarization for Creative Writing "
-keywords:    "workshop, creative writing, automatic summarization"
-description: "The official website for the Workshop on Automatic Summarization for Creative Writing "
+title:       "Workshop on Interactive Executable Semantic Parsing (intex-sempar)"
+keywords:    "workshop, semantic parsing, question answering"
+description: "The official website for the Workshop on Interactive Executable Semantic Parsing"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 
 collections:
-  - pages_2022
-
-theme: jekyll-theme-cayman
+  - pages_2020

@@ -1,8 +1,8 @@
 ---
 layout: main
 title: Call for Papers
-order: 2
-collection: pages_2022
+order: 4
+collection: pages_2020
 permalink: /cfp
 ---
 <!-- # NEW: Present your "Findings of EMNLP" papers at our workshop

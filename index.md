@@ -2,7 +2,7 @@
 layout: main
 title: Home
 order: 1
-collection: pages_2022
+collection: pages_2020
 ---
 
 ## Overview
@@ -149,18 +149,18 @@ Thursday Nov 19, 2020 Pacific Time
       <td><a href="https://about.me/wkryscinski">Wojciech Kryściński (Salesforce Research)</a></td>
       <td><a href="https://www.cs.columbia.edu/~faisal/">Faisal Ladhak (Columbia University)</a></td>
     </tr>
-    <tr>
-      <td width="25%"><a href="https://ppasupat.github.io/"><img src="assets/images/bryan.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="http://pcyin.me/"><img src="assets/images/ramesh.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://taoyds.github.io/"><img src="assets/images/drago.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://ryanzhumich.github.io/"><img src="assets/images/swiseman.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+<!--     <tr>
+      <td width="25%"><a href="https://ppasupat.github.io/"><img src="assets/images/pasupat.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://pcyin.me/"><img src="assets/images/yin.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://taoyds.github.io/"><img src="assets/images/taoyu.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://ryanzhumich.github.io/"><img src="assets/images/ruizhang.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
       <td><a href="https://manestay.github.io/">Bryan Li (University of Pennsylvania)</a></td>
       <td><a href="https://www.amazon.science/author/ramesh-nallapati">Ramesh Nallapati (Amazon)</a></td>
       <td><a href="http://www.cs.yale.edu/homes/radev/">Dragomir Radev (Yale University)</a></td>
       <td><a href="https://swiseman.github.io/">Sam Wiseman (Duke University)</a></td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 <!-- - [Ben Bogin](https://benbogin.github.io/), Tel Aviv University 
