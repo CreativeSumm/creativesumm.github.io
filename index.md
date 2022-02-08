@@ -138,10 +138,10 @@ Thursday Nov 19, 2020 Pacific Time
 <table>
   <tbody>
     <tr>
-      <td width="25%"><img src="assets/images/kathy.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><img src="assets/images/simeng.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><img src="assets/images/wojciech.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><img src="assets/images/faisal.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><img src="assets/images/kathy.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
+      <td width="25%"><img src="assets/images/simeng.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
+      <td width="25%"><img src="assets/images/wojciech.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
+      <td width="25%"><img src="assets/images/faisal.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
     </tr>
     <tr>
       <td><a href="http://www.cs.columbia.edu/~kathy/">Kathleen Mckeown (Columbia University)</a></td>
@@ -150,10 +150,10 @@ Thursday Nov 19, 2020 Pacific Time
       <td><a href="https://www.cs.columbia.edu/~faisal/">Faisal Ladhak (Columbia University)</a></td>
     </tr>
     <tr>
-      <td width="25%"><img src="assets/images/bryan.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><img src="assets/images/ramesh.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><img src="assets/images/drago.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><img src="assets/images/swiseman.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><img src="assets/images/bryan.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
+      <td width="25%"><img src="assets/images/ramesh.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
+      <td width="25%"><img src="assets/images/drago.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
+      <td width="25%"><img src="assets/images/swiseman.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
     </tr>
     <tr>
       <td><a href="https://manestay.github.io/">Bryan Li (University of Pennsylvania)</a></td>
