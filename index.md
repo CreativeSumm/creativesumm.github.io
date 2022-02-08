@@ -2,7 +2,7 @@
 layout: main
 title: Home
 order: 1
-collection: pages_2020
+collection: pages_2022
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 layout: main
 title: Organization
 order: 3
-collection: pages_2020
+collection: pages_2022
 permalink: /organization
 ---
 <!-- ## Steering Committee:
