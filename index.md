@@ -138,7 +138,7 @@ Thursday Nov 19, 2020 Pacific Time
 <table>
   <tbody>
     <tr>
-      <td width="25%"><img src="assets/images/kathy.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
+      <td width="25%"><img src="assets/images/kathy.jpeg" width="120px" height="120px" align="bottom" style="border-radius: 50%"></td>
       <td width="25%"><img src="assets/images/simeng.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
       <td width="25%"><img src="assets/images/wojciech.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
       <td width="25%"><img src="assets/images/faisal.jpeg" width="120px" align="bottom" style="border-radius: 50%"></td>
