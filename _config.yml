@@ -18,4 +18,4 @@ touch_icon:  #put a path like: "img/apple-touch-icon.png"
 collections:
   - pages_2022
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
