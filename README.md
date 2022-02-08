@@ -1,0 +1,1 @@
+Workshop on Interactive Executable Semantic Parsing (IntEx-SemPar) @ EMNLP 2020
