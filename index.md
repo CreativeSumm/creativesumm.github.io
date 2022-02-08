@@ -2,30 +2,26 @@
 layout: main
 title: Home
 order: 1
-collection: pages_2020
+collection: pages_2022
 ---
 
-<!-- ## Overview
+## Overview
 
-Executable semantic parsers map natural language utterances to meaning representations that can be executed in a particular context such as databases, knowledge graphs, robotic environment, and software applications. The field has become increasingly important as it allows users to seek information and control computer systems naturally and flexibly via interactive exchanges in natural language. We envision that practical semantic parsing systems need to be equipped with three core capabilities: 
+Overview:
+Text summarization aims at condensing long documents into short paragraphs that include salient information. Given the constantly growing volume of online documents, automatic text summarization can help people to find information relevant to their interests. We envision that summarization systems of the future will need to be equipped with the ability to:
 
-- Understanding user utterances in context and mapping them to executable forms.
-- Clarifying ambiguous utterances and providing guidance for user to form valid input.
-- Providing a faithful explanation of its interpreted actions for user verification and feedback.
+- process long input sequences spanning up to hundreds of pages of text
+- analyze complex discourse structure such as narrative and multi-party dialog
+- interpret figurative language to understand and convey the salient points in the input
 
-To this end, the problem of mapping well-formed, individual natural language utterances to formal representations has been studied extensively.
+Most research in the field has been done in the newswire and scientific domains. While important, these domains pose limited challenges for future generations of summarization due to the limited input length, literal and/or technical language, positional biases, and constrained discourse structure.
 
-In comparison, semantic parsing in an interactive setup has received less attention until very recently. Furthermore, most of existing semantic parsers assume valid input only hence cannot detect ambiguous/invalid utterances and clarify them effectively.
-There is also less focus on explainablility and trustworthiness, where the system can explain its interpreted actions to the user for verification and feedback.
+An equally important, yet underexplored, domain for text summarization is creative writing, which includes documents such as books, stories, as well as scripts from plays, TV shows, and movies. Documents in this domain are uniquely characterized by their substantial length, non-trivial temporal dependencies (e.g., parallel plot threads and non-linear plot development), complex structures which often combine narrative and multi-party dialogs, and a wide variety of styles. Successfully summarizing such texts requires making literary interpretations, conveying implicit information, and heavily paraphrasing the input. This makes summarizing creative documents a challenging task requiring techniques that have not yet been explored in the field.
 
-This workshop aims to bring together researchers and promote exciting work towards powerful, robust and reliable interactive executable semantic parsing systems. We seek submissions in two tracks:
 
-- A research track for presenting novel contributions relevant but not limited to the directions mentioned above.
-- A shared task track on the newly introduced conversational text-to-SQL challenge ([CoSQL](https://yale-lily.github.io/cosql))
+<!-- <a class="twitter-timeline tw-align-center" data-width="80%" margin="auto" text-align="center" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-<a class="twitter-timeline tw-align-center" data-width="80%" margin="auto" text-align="center" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
-## Program Schedule
+<!-- ## Program Schedule
 
 Thursday Nov 19, 2020 Pacific Time
 <br>
@@ -68,8 +64,8 @@ Thursday Nov 19, 2020 Pacific Time
 16:30–17:30 &nbsp;&nbsp;&nbsp; Invited Talk: Richard Socher
 <br>
 17:30–17:35 &nbsp;&nbsp;&nbsp; Closing remarks
-
-## Invited Speakers
+ -->
+<!-- ## Invited Speakers
 
 <table>
   <tbody>
@@ -80,21 +76,22 @@ Thursday Nov 19, 2020 Pacific Time
       <td width="25%"><a href="https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en"><img src="assets/images/hakkani-tur.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
-      <td><a href="https://yoavartzi.com/">Yoav Artzi (Cornell)</a></td>
-      <td><a href="http://www.cs.tau.ac.il/~joberant/">Jonathan Berant (Tel Aviv University/AI2)</a></td>
-      <td><a href="https://www.socher.org/">Richard Socher (Salesforce Research)</a></td>
-      <td><a href="https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en">Dilek Hakkani-T&uuml;r (Amazon Alexa AI)</a></td>
+      <td><a href="https://yoavartzi.com/">Mohit Bansal (UNC)</a></td>
+      <td><a href="http://www.cs.tau.ac.il/~joberant/">Miguel Ballesteros (Amazon)</a></td>
+      <td><a href="https://www.socher.org/">Asli Celikyilmaz, Facebook AI </a></td>
+      <td><a href="https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en">Greg Durrett (UT Austin)</a></td>
     </tr>
     <tr>
       <td width="25%"><a href="https://alexpolozov.com/"><img src="assets/images/polozov.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
       <td width="25%"><a href="https://www.mit.edu/~jda/"><img src="assets/images/andreas.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
-      <td><a href="https://alexpolozov.com/">Alex Polozov (Microsoft Research)</a></td>
-      <td><a href="https://www.mit.edu/~jda/">Jacob Andreas (MIT)</a></td>
+      <td><a href="https://alexpolozov.com/">Mirella Lapata, University of Edinburgh</a></td>
+      <td><a href="https://www.mit.edu/~jda/">Lu Wang, University of Michigan</a></td>
+      <td><a href="https://www.mit.edu/~jda/">Xiaojun Wan, Wangxuan Institute of Computer Technology</a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- - [Yoav Artzi](https://yoavartzi.com/), Cornell University
 - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel Aviv University/Allen Institute for Artificial Intelligence
@@ -103,7 +100,7 @@ Thursday Nov 19, 2020 Pacific Time
 - [Alex Polozov](https://alexpolozov.com/), Microsoft Research
 - [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/), The University of Edinburgh -->
 
-## Steering Committee
+<!-- ## Steering Committee
 
 <table>
   <tbody>
@@ -128,7 +125,7 @@ Thursday Nov 19, 2020 Pacific Time
       <td><a href="https://www.cs.washington.edu/people/faculty/lsz">Luke Zettlemoyer (University of Washington)</a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 <!-- - [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
 - [Graham Neubig](http://www.phontron.com/), Carnegie Mellon University
 - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli), IBM Research
@@ -141,34 +138,28 @@ Thursday Nov 19, 2020 Pacific Time
 <table>
   <tbody>
     <tr>
-      <td width="25%"><a href="https://benbogin.github.io/"><img src="assets/images/bogin.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="http://sriniiyer.github.io/"><img src="assets/images/iyer.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="http://victorialin.net/"><img src="assets/images/lin.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="http://alanesuhr.com/"><img src="assets/images/suhr.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://benbogin.github.io/"><img src="assets/images/kathy.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://sriniiyer.github.io/"><img src="assets/images/simeng.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://victorialin.net/"><img src="assets/images/wojciech.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://alanesuhr.com/"><img src="assets/images/faisal.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
-      <td><a href="https://benbogin.github.io/">Ben Bogin (Tel Aviv University)</a></td>
-      <td><a href="http://sriniiyer.github.io/">Srinivasan Iyer (Facebook AI)</a></td>
-      <td><a href="http://victorialin.net/">Victoria Lin (Salesforce Research)</a></td>
-      <td><a href="http://alanesuhr.com/">Alane Suhr (Cornell University)</a></td>
+      <td><a href="http://www.cs.columbia.edu/~kathy/">Kathleen Mckeown (Columbia University)</a></td>
+      <td><a href="https://shirleyhan6.github.io/">Simeng Han (Yale University)</a></td>
+      <td><a href="https://about.me/wkryscinski">Wojciech Kryściński (Salesforce Research)</a></td>
+      <td><a href="https://www.cs.columbia.edu/~faisal/">Faisal Ladhak (Columbia University)</a></td>
     </tr>
     <tr>
-      <td width="25%"><a href="https://ppasupat.github.io/"><img src="assets/images/pasupat.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="http://pcyin.me/"><img src="assets/images/yin.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://taoyds.github.io/"><img src="assets/images/taoyu.png" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-      <td width="25%"><a href="https://ryanzhumich.github.io/"><img src="assets/images/ruizhang.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://ppasupat.github.io/"><img src="assets/images/bryan.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="http://pcyin.me/"><img src="assets/images/ramesh.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://taoyds.github.io/"><img src="assets/images/drago.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
+      <td width="25%"><a href="https://ryanzhumich.github.io/"><img src="assets/images/swiseman.jpeg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
     </tr>
     <tr>
-      <td><a href="https://ppasupat.github.io/">Panupong (Ice) Pasupat (Google)</a></td>
-      <td><a href="http://pcyin.me/">Pengcheng Yin (CMU)</a></td>
-      <td><a href="https://taoyds.github.io/">Tao Yu (Yale University)</a></td>
-      <td><a href="https://ryanzhumich.github.io/">Rui Zhang (Penn State University)</a></td>
-    </tr>
-    <tr>
-      <td width="25%"><a href="https://www.victorzhong.com/"><img src="assets/images/zhong.jpg" width="120px" align="bottom" style="border-radius: 50%"></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.victorzhong.com/">Victor Zhong (University of Washington)</a></td>
+      <td><a href="https://manestay.github.io/">Bryan Li (University of Pennsylvania)</a></td>
+      <td><a href="https://www.amazon.science/author/ramesh-nallapati">Ramesh Nallapati (Amazon)</a></td>
+      <td><a href="http://www.cs.yale.edu/homes/radev/">Dragomir Radev (Yale University)</a></td>
+      <td><a href="https://swiseman.github.io/">Sam Wiseman (Duke University)</a></td>
     </tr>
   </tbody>
 </table>
@@ -182,5 +173,6 @@ Thursday Nov 19, 2020 Pacific Time
 - [Rui Zhang](https://ryanzhumich.github.io/), Yale University -> Penn State University
 - [Victor Zhong](https://www.victorzhong.com/), University of Washington -->
 
-## Sponsors
+<!-- ## Sponsors
 ![Salesforce]({{ "/assets/images/salesforce_logo.png" | absolute_url }})
+ -->
