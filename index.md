@@ -132,7 +132,7 @@ Thursday Nov 19, 2020 Pacific Time
 - [Dragomir Radev](https://www.cs.yale.edu/homes/radev/), Yale University
 - [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington -->
 
-## Organizing Committee
+<!-- ## Organizing Committee
 
 <table>
   <tbody>
@@ -161,7 +161,7 @@ Thursday Nov 19, 2020 Pacific Time
       <td><a href="https://swiseman.github.io/">Sam Wiseman (Duke University)</a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- ## Sponsors
 ![Salesforce]({{ "/assets/images/salesforce_logo.png" | absolute_url }})
