@@ -25,7 +25,7 @@ This workshop aims to bring together researchers and promote exciting work in th
 - Semantic aspects of summarization (e.g. semantic representation, inference, validity)
 - Summaries that highlight interpretations of the input
 - Development of new algorithms, new datasets and annotations and new evaluation metrics
-Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
+- Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
 
 
 
