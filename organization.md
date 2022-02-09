@@ -5,14 +5,8 @@ order: 3
 collection: pages_2022
 permalink: /organization
 ---
-<!-- ## Steering Committee:
-- [Jonathan Berant](http://www.cs.tau.ac.il/~joberant/), Tel-Aviv University
-- [Graham Neubig](http://www.phontron.com/), Carnegie Mellon University
-- [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli), IBM Research
-- [Caiming Xiong](http://www.stat.ucla.edu/~caiming/), Salesforce Research
-- [Dragomir Radev](https://www.cs.yale.edu/homes/radev/), Yale University
-- [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
- -->
+<!-- ## Steering Committee:-->
+
 ## Organizing Committee:
 
 - [Kathleen Mckeown](http://www.cs.columbia.edu/~kathy/), Columbia University 
@@ -27,7 +21,7 @@ permalink: /organization
 <!-- 
 
 ## Program Committee:
-- Siva Reddy, MILA/McGill University
+- 
 
 -->
 

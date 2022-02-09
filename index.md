@@ -163,15 +163,6 @@ Thursday Nov 19, 2020 Pacific Time
     </tr>
   </tbody>
 </table>
-<!-- - [Ben Bogin](https://benbogin.github.io/), Tel Aviv University 
-- [Srinivasan Iyer](http://sriniiyer.github.io/), University of Washington
-- [Victoria Lin](http://victorialin.net/), Salesforce Research
-- [Alane Suhr](http://alanesuhr.com/), Cornell University
-- [Panupong (Ice) Pasupat](https://ppasupat.github.io/), Google
-- [Pengcheng Yin](http://pcyin.me/), Carnegie Mellon University
-- [Tao Yu](https://taoyds.github.io/), Yale University
-- [Rui Zhang](https://ryanzhumich.github.io/), Yale University -> Penn State University
-- [Victor Zhong](https://www.victorzhong.com/), University of Washington -->
 
 <!-- ## Sponsors
 ![Salesforce]({{ "/assets/images/salesforce_logo.png" | absolute_url }})
