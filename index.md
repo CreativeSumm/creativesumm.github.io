@@ -7,7 +7,6 @@ collection: pages_2022
 
 ## Overview
 
-Overview:
 Text summarization aims at condensing long documents into short paragraphs that include salient information. Given the constantly growing volume of online documents, automatic text summarization can help people to find information relevant to their interests. We envision that summarization systems of the future will need to be equipped with the ability to:
 
 - process long input sequences spanning up to hundreds of pages of text
