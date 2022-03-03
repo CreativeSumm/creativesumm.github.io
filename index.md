@@ -5,6 +5,9 @@ order: 1
 collection: pages_2022
 ---
 
+## Call for Paper
+Our first [call for paper](https://creativesumm.github.io/cfp) is published! 
+
 ## Overview
 
 Text summarization aims at condensing long documents into short paragraphs that include salient information. Given the constantly growing volume of online documents, automatic text summarization can help people to find information relevant to their interests. We envision that summarization systems of the future will need to be equipped with the ability to:
@@ -166,3 +169,4 @@ Thursday Nov 19, 2020 Pacific Time
 <!-- ## Sponsors
 ![Salesforce]({{ "/assets/images/salesforce_logo.png" | absolute_url }})
  -->
+

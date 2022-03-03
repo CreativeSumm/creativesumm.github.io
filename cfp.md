@@ -28,6 +28,15 @@ This workshop aims to bring together researchers and promote exciting work in th
 - Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
 
 
+## Important Dates:
+- All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
+- Anonymity period begins: May 11, 2022
+- Workshop paper submission Deadline: Jul 11, 2022
+- Shared task paper submission: August 1st, 2022
+- Acceptance Notification: August 22, 2022 
+- Camera-Ready Submission: September 5, 2022
+- Workshop Date: Oct 16th or 17th (TBD)
+
 
 <!-- ## Important Dates
 - <s>**August 14, 2020**:              Submission deadline</s>
