@@ -37,20 +37,10 @@ This workshop aims to bring together researchers and promote exciting work in th
 - Camera-Ready Submission: September 5, 2022
 - Workshop Date: Oct 16th or 17th (TBD)
 
-
-<!-- ## Important Dates
-- <s>**August 14, 2020**:              Submission deadline</s>
-- **August 21, 2020**:              Submission deadline extended!
-- **August 22-September 14, 2020**: Review Period
-- **September 15, 2020**:           Retraction of workshop papers accepted for EMNLP (main conference)
-- **September 29, 2020**:           Notification of acceptance
-- **October 10, 2020**:             Camera-ready version deadline
-- **November 19, 2020**:            Workshop (Online)
-
 All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
 
 
 ## Submission Guidelines
 You are invited to submit your articles through a link to be announced. All submitted papers must be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the COLING 2022 style template. Supplementary material and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
-<br>
+<br><br>
 Double submissions are allowed as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to this workshop must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes.
