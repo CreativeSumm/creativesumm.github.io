@@ -51,11 +51,6 @@ All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
 
 
 ## Submission Guidelines
-Submissions should be at most 8 pages of content, plus unlimited pages for references.
-Accepted papers will be given 1 additional content page, so that reviewers' comments can be taken into account. 
-Please use the [standard ACL style files](https://2020.emnlp.org/call-for-papers) to format your papers and submit them electronically via our [submission site](https://www.softconf.com/emnlp2020/intex-sempar2020/).
-Our reviewing policy is double-blind, and the submissions should be fully anonymized.
-We also allow submissions that are under review in other venues or have preprint versions.
-Especially, you can submit your EMNLP 2020 submissions to this workshop as well. -->
-
-
+You are invited to submit your articles through a link to be announced. All submitted papers must be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the COLING 2022 style template. Supplementary material and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
+<br>
+Double submissions are allowed as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to this workshop must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes.

@@ -5,8 +5,8 @@ order: 1
 collection: pages_2022
 ---
 
-## Call for Paper
-Our first [call for paper](https://creativesumm.github.io/cfp) is published! 
+## Call for Papers
+Our first [call for papers](https://creativesumm.github.io/cfp) is published! 
 
 ## Overview
 
