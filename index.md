@@ -22,14 +22,14 @@ An equally important, yet underexplored, domain for text summarization is creati
 
 ## Invited Speakers:
 
-- Mirella Lapata, Edinburgh - mlap@inf.ed.ac.uk
-- Asli Celikyilmaz, Facebook AI - asli@ieee.org, aslic@fb.com
-- Shashi Narayan, Google AI - shashinarayan@google.com
-- Greg Durrett, UT Austin - gdurrett@cs.utexas.edu
-- Mohit Bansal, UNC - mbansal@cs.unc.edu
-- Miguel Ballesteros, Amazon - ballemig@amazon.com
-- Lu Wang, Michigan - wangluxy@umich.edu
-- Xiaojin Wan
+- Mirella Lapata, Edinburgh 
+- Asli Celikyilmaz, Facebook AI 
+- Shashi Narayan, Google AI
+- Greg Durrett, UT Austin
+- Mohit Bansal, UNC
+- Miguel Ballesteros, Amazon
+- Lu Wang, Michigan
+- Xiaojin Wan, Peking University
 
 
 <!-- <a class="twitter-timeline tw-align-center" data-width="80%" margin="auto" text-align="center" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
