@@ -20,6 +20,17 @@ Most research in the field has been done in the newswire and scientific domains.
 
 An equally important, yet underexplored, domain for text summarization is creative writing, which includes documents such as books, stories, as well as scripts from plays, TV shows, and movies. Documents in this domain are uniquely characterized by their substantial length, non-trivial temporal dependencies (e.g., parallel plot threads and non-linear plot development), complex structures which often combine narrative and multi-party dialogs, and a wide variety of styles. Successfully summarizing such texts requires making literary interpretations, conveying implicit information, and heavily paraphrasing the input. This makes summarizing creative documents a challenging task requiring techniques that have not yet been explored in the field.
 
+## Invited Speakers:
+
+- Mirella Lapata, Edinburgh - mlap@inf.ed.ac.uk
+- Asli Celikyilmaz, Facebook AI - asli@ieee.org, aslic@fb.com
+- Shashi Narayan, Google AI - shashinarayan@google.com
+- Greg Durrett, UT Austin - gdurrett@cs.utexas.edu
+- Mohit Bansal, UNC - mbansal@cs.unc.edu
+- Miguel Ballesteros, Amazon - ballemig@amazon.com
+- Lu Wang, Michigan - wangluxy@umich.edu
+- Xiaojin Wan
+
 
 <!-- <a class="twitter-timeline tw-align-center" data-width="80%" margin="auto" text-align="center" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
