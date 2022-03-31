@@ -12,7 +12,7 @@ permalink: /organization
 - [Divyansh Agarwal](https://www.linkedin.com/in/agarwal-divyansh/){:target="_blank"}, Salesforce Research
 - [Kathleen Mckeown](http://www.cs.columbia.edu/~kathy/){:target="_blank"}, Columbia University 
 - [Simeng Han](https://shirleyhan6.github.io/){:target="_blank"}, Yale University
-- [Wojciech Kryściński](https://about.me/wkryscinski){:target="_blank"}, Salesforce Research
+- [Wojciech Kryściński](https://twitter.com/iam_wkr){:target="_blank"}, Salesforce Research
 - [Faisal Ladhak](https://www.cs.columbia.edu/~faisal/){:target="_blank"}, Columbia University
 - [Bryan Li](https://manestay.github.io/){:target="_blank"}, University of Pennsylvania
 - [Ramesh Nallapati](https://www.amazon.science/author/ramesh-nallapati){:target="_blank"}, Amazon
