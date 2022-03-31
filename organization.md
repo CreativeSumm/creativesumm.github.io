@@ -9,7 +9,7 @@ permalink: /organization
 
 ## Organizing Committee:
 
-- [Divyansh Agarwal](https://www.linkedin.com/in/agarwal-divyansh/), Salesforce
+- [Divyansh Agarwal](https://www.linkedin.com/in/agarwal-divyansh/), Salesforce Research
 - [Kathleen Mckeown](http://www.cs.columbia.edu/~kathy/), Columbia University 
 - [Simeng Han](https://shirleyhan6.github.io/), Yale University
 - [Wojciech Kryściński](https://about.me/wkryscinski), Salesforce Research
