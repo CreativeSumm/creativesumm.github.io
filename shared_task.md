@@ -40,13 +40,13 @@ Submitted summaries will be evaluated using standard automatic evaluation metric
 # Important Dates:
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
-- Training data released: Mar 31, 2022
-- Deadline for Registration: Jul 1, 2022
-- Blind Test Set Release: Jul 5, 2022
-- System Summaries Due: Jul 12, 2022
-- Shared Task Paper Submission: Aug 1, 2022
-- Shared Task Paper Camera-Ready submission: September 5, 2022 
-- Workshop Date: Oct 16th or 17th (TBD)
+- **Training data released**: Mar 31, 2022
+- **Deadline for Registration**: Jul 1, 2022
+- **Blind Test Set Release**: Jul 5, 2022
+- **System Summaries Due**: Jul 12, 2022
+- **Shared Task Paper Submission**: Aug 1, 2022
+- **Shared Task Paper Camera-Ready submission**: September 5, 2022 
+- **Workshop Date**: Oct 16th or 17th (TBD)
 
 # Contact
 Divyansh Agarwal, divyansh.agarwal@salesforce.com <br>

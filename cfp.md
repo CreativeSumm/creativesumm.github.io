@@ -30,12 +30,12 @@ This workshop aims to bring together researchers and promote exciting work in th
 
 ## Important Dates:
 - All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
-- Anonymity period begins: May 11, 2022
-- Workshop paper submission Deadline: Jul 11, 2022
-- Shared task paper submission: August 1st, 2022
-- Acceptance Notification: August 22, 2022 
-- Camera-Ready Submission: September 5, 2022
-- Workshop Date: Oct 16th or 17th (TBD)
+- **Anonymity period begins**: May 11, 2022
+- **Workshop paper submission Deadline**: Jul 11, 2022
+- **Shared task paper submission**: August 1st, 2022
+- **Acceptance Notification**: August 22, 2022 
+- **Camera-Ready Submission**: September 5, 2022
+- **Workshop Date**: Oct 16th or 17th (TBD)
 
 All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
 
