@@ -6,8 +6,11 @@ collection: pages_2022
 ---
 
 ## Call for Papers
-Our first [call for papers](https://creativesumm.github.io/cfp) is published! 
+Our first [call for papers](https://creativesumm.github.io/cfp) and [shared task](https://creativesumm.github.io/sharedtask) are published! 
 
+## Shared Task
+
+Our shared 
 ## Overview
 
 Text summarization aims at condensing long documents into short paragraphs that include salient information. Given the constantly growing volume of online documents, automatic text summarization can help people to find information relevant to their interests. We envision that summarization systems of the future will need to be equipped with the ability to:
