@@ -16,8 +16,9 @@ The CreativeSumm 2022 shared task is divided into four sub-tasks, namely:
 - summarization of daytime, “soap opera” transcripts
 
 The training data for each sub-task comes from existing, well-established datasets, but for 3 of 4 datasets we will provide new, unseen test inputs for evaluation (see below).
-
+<br>
 # Corpora
+
 ## Novel Chapters/BookSum (Ladhak et al., 2020; Kryściński et al., 2021)
 This dataset pairs chapters of novels released as part of Project Gutenberg with corresponding summaries. For this shared task, we provide the novel chapters here (add link to new repo for this workshop). We unfortunately cannot provide the summaries, as the study guide websites are copyrighted. The provided data, however, for each novel chapter, does have a link to the page where the summary text may be found.
 
