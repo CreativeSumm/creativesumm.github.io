@@ -19,19 +19,19 @@ The training data for each sub-task comes from existing, well-established datase
 <br>
 # Corpora
 
-## Novel Chapters/BookSum (Ladhak et al., 2020; Kryściński et al., 2021)
+## [Novel Chapters/BookSum (Ladhak et al., 2020; Kryściński et al., 2021)](https://aclanthology.org/2020.acl-main.453.pdf)
 This dataset pairs chapters of novels released as part of Project Gutenberg with corresponding summaries. For this shared task, we provide the novel chapters here (add link to new repo for this workshop). We unfortunately cannot provide the summaries, as the study guide websites are copyrighted. The provided data, however, for each novel chapter, does have a link to the page where the summary text may be found.
 
 Please see the associated papers Ladhak et al 2020 and Kryściński et al 2021 for more information on how they collected the summaries.
 
 For the novel chapter summarization task, please do not use the test splits (of either NovelChapter or BookSum) for either training or development. We will use the test set of BookSum as part of the final evaluation. We may or may not provide new, unseen test inputs for the final evaluation as well.
 
-## Scriptbase (Gorinski & Lapata, 2015)
+## [Scriptbase (Gorinski & Lapata, 2015)](https://aclanthology.org/N15-1113.pdf)
 This dataset pairs movie transcripts with their corresponding Wikipedia summaries. The data may be downloaded from here. See the main repository for additional information.
 SummScreen, Forever Dreaming (Chen et al., 2022)
 This dataset pairs TV transcripts from primetime shows with their corresponding Wikipedia summaries. The data may be downloaded from the shared task repository.
 
-## SummScreen, TV Megasite (Chen et al., 2022)
+## [SummScreen, TV Megasite (Chen et al., 2022)](https://arxiv.org/pdf/2104.07091.pdf)
 This dataset pairs soap opera transcripts with summaries written by TV Megasite contributors. The data may be downloaded from the shared task repository.
 
 # Evaluation
