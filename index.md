@@ -6,7 +6,7 @@ collection: pages_2022
 ---
 
 ## Call for Papers
-Our [call for papers](https://creativesumm.github.io/cfp) and [shared tasks](https://creativesumm.github.io/sharedtask) are published! 
+Our [call for papers](https://creativesumm.github.io/cfp){:target="_blank"} and [shared tasks](https://creativesumm.github.io/sharedtask){:target="_blank"} are published! 
 
 ## Overview
 
