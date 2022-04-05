@@ -19,7 +19,7 @@ The training data for each sub-task comes from existing, well-established datase
 <br>
 # Corpora
 
-## [Novel Chapters/BookSum (Ladhak et al., 2020; Kryściński et al., 2021)](https://aclanthology.org/2020.acl-main.453.pdf)
+## [Novel Chapters (Ladhak et al., 2020)](https://aclanthology.org/2020.acl-main.453.pdf) / [BookSum (Kryściński et al., 2021)](https://arxiv.org/pdf/2105.08209.pdf)
 This dataset pairs chapters of novels released as part of Project Gutenberg with corresponding summaries. For this shared task, we provide the novel chapters here (add link to new repo for this workshop). We unfortunately cannot provide the summaries, as the study guide websites are copyrighted. The provided data, however, for each novel chapter, does have a link to the page where the summary text may be found.
 
 Please see the associated papers Ladhak et al 2020 and Kryściński et al 2021 for more information on how they collected the summaries.
