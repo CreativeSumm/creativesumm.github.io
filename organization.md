@@ -11,6 +11,7 @@ permalink: /organization
 
 - [Kathleen Mckeown](http://www.cs.columbia.edu/~kathy/){:target="_blank"}, Columbia University 
 - [Divyansh Agarwal](https://www.linkedin.com/in/agarwal-divyansh/){:target="_blank"}, Salesforce Research
+- [Alexander Fabbri](https://alex-fabbri.github.io/){:target="_blank"}, Salesforce Research
 - [Simeng Han](https://shirleyhan6.github.io/){:target="_blank"}, Yale University
 - [Wojciech Kryściński](https://twitter.com/iam_wkr){:target="_blank"}, Salesforce Research
 - [Faisal Ladhak](https://www.cs.columbia.edu/~faisal/){:target="_blank"}, Columbia University
