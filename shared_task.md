@@ -17,7 +17,7 @@ The CreativeSumm 2022 shared task is divided into four sub-tasks, namely:
 
 The training data for each sub-task comes from existing, well-established datasets, but for 3 of 4 datasets we will provide new, unseen test inputs for evaluation (see below).
 <br>
-### Register [here](https://docs.google.com/forms/d/e/1FAIpQLScaBT-snWmZACG0Yv2Py9u5MQsOzk9NOfyog53wql17LDfF-w/viewform)
+### Register for the shared task [here](https://docs.google.com/forms/d/e/1FAIpQLScaBT-snWmZACG0Yv2Py9u5MQsOzk9NOfyog53wql17LDfF-w/viewform).
 <br>
 # Corpora
 
