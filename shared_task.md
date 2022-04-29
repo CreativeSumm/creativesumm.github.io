@@ -18,8 +18,10 @@ The CreativeSumm 2022 shared task is divided into four sub-tasks, namely:
 The training data for each sub-task comes from existing, well-established datasets, but for 3 of 4 datasets we will provide new, unseen test inputs for evaluation (see below).
 <br>
 ### Register for the shared task [here](https://docs.google.com/forms/d/e/1FAIpQLScaBT-snWmZACG0Yv2Py9u5MQsOzk9NOfyog53wql17LDfF-w/viewform).
+
 <br>
-# Corpora
+
+### Download the corpora [here](https://github.com/fladhak/creative-summ-data)
 
 ## [Novel Chapters (Ladhak et al., 2020)](https://aclanthology.org/2020.acl-main.453.pdf){:target="_blank"} / [BookSum (Kryściński et al., 2021)](https://arxiv.org/pdf/2105.08209.pdf){:target="_blank"}
 This dataset pairs chapters of novels released as part of Project Gutenberg with corresponding summaries. For this shared task, we provide the novel chapters here (add link to new repo for this workshop). We unfortunately cannot provide the summaries, as the study guide websites are copyrighted. The provided data, however, for each novel chapter, does have a link to the page where the summary text may be found.
@@ -29,12 +31,12 @@ Please see the associated papers Ladhak et al 2020 and Kryściński et al 2021 f
 For the novel chapter summarization task, please do not use the test splits (of either NovelChapter or BookSum) for either training or development. We will use the test set of BookSum as part of the final evaluation. We may or may not provide new, unseen test inputs for the final evaluation as well.
 
 ## [Scriptbase (Gorinski & Lapata, 2015)](https://aclanthology.org/N15-1113.pdf){:target="_blank"}
-This dataset pairs movie transcripts with their corresponding Wikipedia summaries. The data may be downloaded from here. See the main repository for additional information.
+This dataset pairs movie transcripts with their corresponding Wikipedia summaries. 
 SummScreen, Forever Dreaming (Chen et al., 2022)
-This dataset pairs TV transcripts from primetime shows with their corresponding Wikipedia summaries. The data may be downloaded from the shared task repository.
+This dataset pairs TV transcripts from primetime shows with their corresponding Wikipedia summaries. 
 
 ## [SummScreen, TV Megasite (Chen et al., 2022)](https://arxiv.org/pdf/2104.07091.pdf){:target="_blank"}
-This dataset pairs soap opera transcripts with summaries written by TV Megasite contributors. The data may be downloaded from the shared task repository.
+This dataset pairs soap opera transcripts with summaries written by TV Megasite contributors. 
 
 # Evaluation
 Submitted summaries will be evaluated using standard automatic evaluation metrics, including ROUGE, METEOR, and pretrained automatic metrics.
