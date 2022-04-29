@@ -23,7 +23,7 @@ The training data for each sub-task comes from existing, well-established datase
 
 # Corpora
 
-### Download the corpora [here](https://github.com/fladhak/creative-summ-data)
+Download the corpora [here](https://github.com/fladhak/creative-summ-data)
 
 ### [Novel Chapters (Ladhak et al., 2020)](https://aclanthology.org/2020.acl-main.453.pdf){:target="_blank"} / [BookSum (Kryściński et al., 2021)](https://arxiv.org/pdf/2105.08209.pdf){:target="_blank"}
 This dataset pairs chapters of novels released as part of Project Gutenberg with corresponding summaries. For this shared task, we provide the novel chapters here (add link to new repo for this workshop). We unfortunately cannot provide the summaries, as the study guide websites are copyrighted. The provided data, however, for each novel chapter, does have a link to the page where the summary text may be found.
