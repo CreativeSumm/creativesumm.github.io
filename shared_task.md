@@ -49,7 +49,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 - **Training data released**: Apr 12, 2022
 - **Deadline for Registration**: Jul 1, 2022
-- **Test set released**: Jul 5, 2022
+- **Test set released**: Jul 13, 2022
 - **System summary and system output submitted**: Jul 20, 2022
 - **System scores returned to participants**: July 25th
 - **Shared Task Paper Submission**: Aug 1, 2022

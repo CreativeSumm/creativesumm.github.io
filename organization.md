@@ -19,6 +19,7 @@ permalink: /organization
 - [Ramesh Nallapati](https://www.amazon.science/author/ramesh-nallapati){:target="_blank"}, Amazon
 - [Dragomir Radev](http://www.cs.yale.edu/homes/radev/){:target="_blank"}, Yale University
 - [Sam Wiseman](https://swiseman.github.io/){:target="_blank"}, Duke University
+- [Tianyi Zhang](https://tiiiger.github.io/){:target="_blank"}, Stanford University
 
 <!-- 
 
