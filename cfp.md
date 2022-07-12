@@ -36,7 +36,7 @@ This workshop aims to bring together researchers and promote exciting work in th
 - **Shared task paper submission**: August 1st, 2022
 - **Acceptance Notification**: August 22, 2022 
 - **Camera-Ready Submission**: September 5, 2022
-- **Workshop Date**: Oct 16th or 17th (TBD)
+- **Workshop Date**: Oct 17th
 
 All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
 
