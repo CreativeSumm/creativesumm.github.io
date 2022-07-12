@@ -27,6 +27,7 @@ This workshop aims to bring together researchers and promote exciting work in th
 - Development of new algorithms, new datasets and annotations and new evaluation metrics
 - Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
 
+You can submit your papers to the submission system (https://www.softconf.com/coling2022/ASCW_2022/). 
 
 ## Important Dates:
 - All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
