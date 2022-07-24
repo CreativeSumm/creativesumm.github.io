@@ -27,15 +27,13 @@ This workshop aims to bring together researchers and promote exciting work in th
 - Development of new algorithms, new datasets and annotations and new evaluation metrics
 - Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
 
-### You can submit your papers to our submission system: https://www.softconf.com/coling2022/ASCW_2022/. 
+### You can submit your papers to our submission [system](https://www.softconf.com/coling2022/ASCW_2022/). 
 
 ## Important Dates:
 - All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
-- **Anonymity period begins**: May 11, 2022
-- **Workshop paper submission Deadline**: Jul 11, 2022
-- **Shared task paper submission**: August 1st, 2022
-- **Acceptance Notification**: August 22, 2022 
-- **Camera-Ready Submission**: September 5, 2022
+- **Workshop paper submission Deadline**: Aug 15, 2022
+- **Acceptance Notification**: Aug 22, 2022 
+- **Camera-Ready Submission**: Sep 16, 2022
 - **Workshop Date**: Oct 17th
 
 All deadlines are 11:59 PM UTC -12h (Anywhere on Earth).
