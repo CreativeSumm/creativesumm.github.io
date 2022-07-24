@@ -49,12 +49,12 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 - **Training data released**: Apr 12, 2022
 - **Deadline for Registration**: Jul 1, 2022
-- **Test set released**: Jul 13, 2022
-- **System summary and system output submitted**: Jul 20, 2022
-- **System scores returned to participants**: July 25th
-- **Shared Task Paper Submission**: Aug 1, 2022
-- **Shared Task Paper Camera-Ready submission**: September 5, 2022 
-- **Workshop Date**: Oct 17th
+- **Test set released**: Jul 25, 2022
+- **System summary and system output submitted**: Aug 1, 2022
+- **System scores returned to participants**: Aug 6, 2022
+- **Shared Task Paper Submission**: Aug 15, 2022
+- **Shared Task Paper Camera-Ready submission**: September 16, 2022 
+- **Workshop Date**: Oct 17, 2022
 
 We have given more time for system summaries and submissions of system output. Your system output will be scored by the organizing team software and scores will be returned to you by July 25th. That gives you a week to write your paper.
 
