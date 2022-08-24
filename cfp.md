@@ -32,7 +32,7 @@ This workshop aims to bring together researchers and promote exciting work in th
 ## Important Dates:
 - All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 - **Workshop paper submission Deadline**: Aug 15, 2022
-- **Acceptance Notification**: Aug 22, 2022 
+- **Acceptance Notification**: Aug 29, 2022 
 - **Camera-Ready Submission**: Sep 16, 2022
 - **Workshop Date**: Oct 17th
 
