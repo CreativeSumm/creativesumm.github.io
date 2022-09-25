@@ -23,13 +23,13 @@ An equally important, yet underexplored, domain for text summarization is creati
 ## Invited Speakers:
 
 - Mirella Lapata, Edinburgh 
-- Asli Celikyilmaz, Facebook AI 
+- Asli Celikyilmaz, Meta AI 
 - Shashi Narayan, Google AI
 - Greg Durrett, UT Austin
 - Mohit Bansal, UNC
 - Miguel Ballesteros, Amazon
 - Lu Wang, Michigan
-- Xiaojin Wan, Peking University
+- Xiaojun Wan, Peking University
 
 
 <!-- <a class="twitter-timeline tw-align-center" data-width="80%" margin="auto" text-align="center" href="https://twitter.com/intexsempar2020?ref_src=twsrc%5Etfw">Tweets by intexsempar2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
