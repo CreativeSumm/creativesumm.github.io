@@ -32,8 +32,9 @@ October 17th, 2022, Korean Standard Time (GMT+9)
 
 **09:00–10:30 Session 1**
 
-09:00–09:30 &nbsp;&nbsp;&nbsp; Invited Talk: Hierarchical 3D Adapters for Long Video-to-text Summarization
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mirella Lapata
+
+09:00–09:30 &nbsp;&nbsp;&nbsp; Invited Talk: Modeling and Evaluating Faithful Generation across Modalities
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mohit Bansal
 
 09:30–10:00 &nbsp;&nbsp;&nbsp; Invited Talk: Controllable Content Creation With Planning
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shashi Narayan
@@ -58,8 +59,8 @@ October 17th, 2022, Korean Standard Time (GMT+9)
 
 **13:50–15:40 Session 3**
 
-13:50–14:20 &nbsp;&nbsp;&nbsp; Invited Talk: Modeling and Evaluating Faithful Generation across Modalities
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mohit Bansal
+13:50–14:20 &nbsp;&nbsp;&nbsp; Invited Talk: Hierarchical 3D Adapters for Long Video-to-text Summarization
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mirella Lapata
 
 14:20–14:40 &nbsp;&nbsp;&nbsp; TEAM UFAL @ CreativeSumm 2022: BART and SamSum based few-shot approach for creative Summarization
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rishu Kumar and Rudolf Rosa
