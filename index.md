@@ -5,20 +5,74 @@ order: 1
 collection: pages_2022
 ---
 
-## Call for Papers
-Our [call for papers](https://creativesumm.github.io/cfp){:target="_blank"} and [shared tasks](https://creativesumm.github.io/sharedtask){:target="_blank"} are published! 
+[//]: # (## Call for Papers)
 
-## Overview
+[//]: # (Our [call for papers]&#40;https://creativesumm.github.io/cfp&#41;{:target="_blank"} and [shared tasks]&#40;https://creativesumm.github.io/sharedtask&#41;{:target="_blank"} are published! )
 
-Text summarization aims at condensing long documents into short paragraphs that include salient information. Given the constantly growing volume of online documents, automatic text summarization can help people to find information relevant to their interests. We envision that summarization systems of the future will need to be equipped with the ability to:
+[//]: # (## Overview)
 
-- process long input sequences spanning up to hundreds of pages of text
-- analyze complex discourse structure such as narrative and multi-party dialog
-- interpret figurative language to understand and convey the salient points in the input
+[//]: # ()
+[//]: # (Text summarization aims at condensing long documents into short paragraphs that include salient information. Given the constantly growing volume of online documents, automatic text summarization can help people to find information relevant to their interests. We envision that summarization systems of the future will need to be equipped with the ability to:)
 
-Most research in the field has been done in the newswire and scientific domains. While important, these domains pose limited challenges for future generations of summarization due to the limited input length, literal and/or technical language, positional biases, and constrained discourse structure.
+[//]: # ()
+[//]: # (- process long input sequences spanning up to hundreds of pages of text)
 
-An equally important, yet underexplored, domain for text summarization is creative writing, which includes documents such as books, stories, as well as scripts from plays, TV shows, and movies. Documents in this domain are uniquely characterized by their substantial length, non-trivial temporal dependencies (e.g., parallel plot threads and non-linear plot development), complex structures which often combine narrative and multi-party dialogs, and a wide variety of styles. Successfully summarizing such texts requires making literary interpretations, conveying implicit information, and heavily paraphrasing the input. This makes summarizing creative documents a challenging task requiring techniques that have not yet been explored in the field.
+[//]: # (- analyze complex discourse structure such as narrative and multi-party dialog)
+
+[//]: # (- interpret figurative language to understand and convey the salient points in the input)
+
+[//]: # ()
+[//]: # (Most research in the field has been done in the newswire and scientific domains. While important, these domains pose limited challenges for future generations of summarization due to the limited input length, literal and/or technical language, positional biases, and constrained discourse structure.)
+
+[//]: # ()
+[//]: # (An equally important, yet underexplored, domain for text summarization is creative writing, which includes documents such as books, stories, as well as scripts from plays, TV shows, and movies. Documents in this domain are uniquely characterized by their substantial length, non-trivial temporal dependencies &#40;e.g., parallel plot threads and non-linear plot development&#41;, complex structures which often combine narrative and multi-party dialogs, and a wide variety of styles. Successfully summarizing such texts requires making literary interpretations, conveying implicit information, and heavily paraphrasing the input. This makes summarizing creative documents a challenging task requiring techniques that have not yet been explored in the field.)
+
+## Program Schedule
+October 17th, 2022, Korean Standard Time (GMT+9)
+
+**09:00–10:30 Session 1**
+
+09:00–09:30 Invited Talk: Hierarchical 3D Adapters for Long Video-to-text Summarization, Mirella Lapata
+
+09:30–10:00 Invited Talk: Controllable Content Creation With Planning, Shashi Narayan
+
+10:00–10:20 IDN-Sum: A New Dataset for Interactive Digital Narrative Extractive Text Summarisation, Ashwathy T. Revi, Stuart E. Middleton and David E. Millard
+
+**10:50–12:30 Session 2**
+
+10:50–11:20 Invited Talk: Where did I read that? It was in a book. Challenges in Summarization of Book Chapters and Dialogues, Miguel Ballesteros
+
+11:20–11:50 Invited Talk: Long Document Summarization using Efficient Attentions and Document Structure, Lu Wang
+
+11:50–12:10 Invited Talk: Summarization of Long Input Texts Using Multi-Layer Neural Network, Niladri Chatterjee, Aadyant Khatri and Raksha Agarwal
+
+12:10–12:30 LED Finteuning and Recursive Summary Generation for Automatic Summarization of Chapters from Novels, Prerna Kashyap
+
+
+**13:50–15:40 Session 3**
+
+13:50–14:20 Invited Talk: Modeling and Evaluating Faithful Generation across Modalities, Mohit Bansal
+
+14:20–14:40 TEAM UFAL @ CreativeSumm 2022: BART and SamSum based few-shot approach for creative Summarization, Rishu Kumar and Rudolf Rosa
+
+14:40–15:00 Long Input Dialogue Summarization with Sketch Supervision for Summarization of Primetime Television Transcripts, Nataliia Kees, Thien Nguyen, Tobias Eder and Georg Groh
+
+15:00–15:20 AMRTVSumm: AMR-augmented Hierarchical Network for TV Transcript Summarization, Yilun Hua, Zhaoyuan Deng and Zhijie Xu
+
+15:20–15:40 Automatic Summarization for Creative Writing: BART based Pipeline Method for Generating Summary of Movie Scripts, Aditya Upadhyay, Nidhir Bhavsar, Aakash Bhatnagar, Muskaan Singh and Petr Motlicek
+
+
+**16:00–18:10 Session 4**
+
+16:00–16:30 Invited Talk: Towards Figurative Language Generation, Xiajun Wan
+
+16:30–17:00 Invited Talk: Discourse Aware Text Summarization, Asli Celikyilmaz
+
+17:00–17:20 A Two-Stage Summarization Model using Scene Attributes, Eunchong Kim, Taewoo Yoo, Gunhee Cho, Suyoung Bae and Yun-Gyung Cheong
+
+17:20–17:40 Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization, Dongqi Pu, Xudong Hong, Pin-Jie Lin, Ernie Chang and Vera Demberg
+
+17:40–18:10 Invited Talk: Summarizing Narratives with GPT-3: Measuring the next 5 years of progress, Greg Durrett
 
 ## Invited Speakers:
 
