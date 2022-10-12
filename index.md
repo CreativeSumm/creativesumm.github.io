@@ -32,47 +32,64 @@ October 17th, 2022, Korean Standard Time (GMT+9)
 
 **09:00–10:30 Session 1**
 
-09:00–09:30 Invited Talk: Hierarchical 3D Adapters for Long Video-to-text Summarization, Mirella Lapata
+09:00–09:30 &nbsp;&nbsp;&nbsp; Invited Talk: Hierarchical 3D Adapters for Long Video-to-text Summarization
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mirella Lapata
 
-09:30–10:00 Invited Talk: Controllable Content Creation With Planning, Shashi Narayan
-
-10:00–10:20 IDN-Sum: A New Dataset for Interactive Digital Narrative Extractive Text Summarisation, Ashwathy T. Revi, Stuart E. Middleton and David E. Millard
+09:30–10:00 &nbsp;&nbsp;&nbsp; Invited Talk: Controllable Content Creation With Planning
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shashi Narayan
+<br>
+10:00–10:20 &nbsp;&nbsp;&nbsp; IDN-Sum: A New Dataset for Interactive Digital Narrative Extractive Text Summarisation
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ashwathy T. Revi, Stuart E. Middleton and David E. Millard
 
 **10:50–12:30 Session 2**
 
-10:50–11:20 Invited Talk: Where did I read that? It was in a book. Challenges in Summarization of Book Chapters and Dialogues, Miguel Ballesteros
+10:50–11:20 &nbsp;&nbsp;&nbsp; Invited Talk: Where did I read that? It was in a book. Challenges in Summarization of Book Chapters and Dialogues
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miguel Ballesteros
 
-11:20–11:50 Invited Talk: Long Document Summarization using Efficient Attentions and Document Structure, Lu Wang
+11:20–11:50 &nbsp;&nbsp;&nbsp; Invited Talk: Long Document Summarization using Efficient Attentions and Document Structure
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lu Wang
 
-11:50–12:10 Invited Talk: Summarization of Long Input Texts Using Multi-Layer Neural Network, Niladri Chatterjee, Aadyant Khatri and Raksha Agarwal
+11:50–12:10 &nbsp;&nbsp;&nbsp; Summarization of Long Input Texts Using Multi-Layer Neural Network
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Niladri Chatterjee, Aadyant Khatri and Raksha Agarwal
 
-12:10–12:30 LED Finteuning and Recursive Summary Generation for Automatic Summarization of Chapters from Novels, Prerna Kashyap
+12:10–12:30 &nbsp;&nbsp;&nbsp; LED Finteuning and Recursive Summary Generation for Automatic Summarization of Chapters from Novels
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prerna Kashyap
 
 
 **13:50–15:40 Session 3**
 
-13:50–14:20 Invited Talk: Modeling and Evaluating Faithful Generation across Modalities, Mohit Bansal
+13:50–14:20 &nbsp;&nbsp;&nbsp; Invited Talk: Modeling and Evaluating Faithful Generation across Modalities
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mohit Bansal
 
-14:20–14:40 TEAM UFAL @ CreativeSumm 2022: BART and SamSum based few-shot approach for creative Summarization, Rishu Kumar and Rudolf Rosa
+14:20–14:40 &nbsp;&nbsp;&nbsp; TEAM UFAL @ CreativeSumm 2022: BART and SamSum based few-shot approach for creative Summarization
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rishu Kumar and Rudolf Rosa
 
-14:40–15:00 Long Input Dialogue Summarization with Sketch Supervision for Summarization of Primetime Television Transcripts, Nataliia Kees, Thien Nguyen, Tobias Eder and Georg Groh
+14:40–15:00 &nbsp;&nbsp;&nbsp; Long Input Dialogue Summarization with Sketch Supervision for Summarization of Primetime Television Transcripts
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nataliia Kees, Thien Nguyen, Tobias Eder and Georg Groh
 
-15:00–15:20 AMRTVSumm: AMR-augmented Hierarchical Network for TV Transcript Summarization, Yilun Hua, Zhaoyuan Deng and Zhijie Xu
+15:00–15:20 &nbsp;&nbsp;&nbsp; AMRTVSumm: AMR-augmented Hierarchical Network for TV Transcript Summarization
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yilun Hua, Zhaoyuan Deng and Zhijie Xu
 
-15:20–15:40 Automatic Summarization for Creative Writing: BART based Pipeline Method for Generating Summary of Movie Scripts, Aditya Upadhyay, Nidhir Bhavsar, Aakash Bhatnagar, Muskaan Singh and Petr Motlicek
+15:20–15:40 &nbsp;&nbsp;&nbsp; Automatic Summarization for Creative Writing: BART based Pipeline Method for Generating Summary of Movie Scripts
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aditya Upadhyay, Nidhir Bhavsar, Aakash Bhatnagar, Muskaan Singh and Petr Motlicek
 
 
 **16:00–18:10 Session 4**
 
-16:00–16:30 Invited Talk: Towards Figurative Language Generation, Xiajun Wan
+16:00–16:30 &nbsp;&nbsp;&nbsp; Invited Talk: Towards Figurative Language Generation
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xiajun Wan
 
-16:30–17:00 Invited Talk: Discourse Aware Text Summarization, Asli Celikyilmaz
+16:30–17:00 &nbsp;&nbsp;&nbsp; Invited Talk: Discourse Aware Text Summarization
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asli Celikyilmaz
 
-17:00–17:20 A Two-Stage Summarization Model using Scene Attributes, Eunchong Kim, Taewoo Yoo, Gunhee Cho, Suyoung Bae and Yun-Gyung Cheong
+17:00–17:20 &nbsp;&nbsp;&nbsp; A Two-Stage Summarization Model using Scene Attributes
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eunchong Kim, Taewoo Yoo, Gunhee Cho, Suyoung Bae and Yun-Gyung Cheong
 
-17:20–17:40 Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization, Dongqi Pu, Xudong Hong, Pin-Jie Lin, Ernie Chang and Vera Demberg
+17:20–17:40 &nbsp;&nbsp;&nbsp; Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dongqi Pu, Xudong Hong, Pin-Jie Lin, Ernie Chang and Vera Demberg
 
-17:40–18:10 Invited Talk: Summarizing Narratives with GPT-3: Measuring the next 5 years of progress, Greg Durrett
+17:40–18:10 &nbsp;&nbsp;&nbsp; Invited Talk: Summarizing Narratives with GPT-3: Measuring the next 5 years of progress
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greg Durrett
 
 ## Invited Speakers:
 
