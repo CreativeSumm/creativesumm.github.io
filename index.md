@@ -37,7 +37,7 @@ October 17th, 2022, Korean Standard Time (GMT+9)
 
 09:30–10:00 &nbsp;&nbsp;&nbsp; Invited Talk: Controllable Content Creation With Planning
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shashi Narayan
-<br>
+
 10:00–10:20 &nbsp;&nbsp;&nbsp; IDN-Sum: A New Dataset for Interactive Digital Narrative Extractive Text Summarisation
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ashwathy T. Revi, Stuart E. Middleton and David E. Millard
 
