@@ -6,7 +6,6 @@ collection: pages_2022
 permalink: /sharedtask
 ---
 
-
 # Shared Task Overview:
 The CreativeSumm 2022 shared task is divided into four sub-tasks, namely:
 
