@@ -28,7 +28,7 @@ collection: pages_2022
 [//]: # (An equally important, yet underexplored, domain for text summarization is creative writing, which includes documents such as books, stories, as well as scripts from plays, TV shows, and movies. Documents in this domain are uniquely characterized by their substantial length, non-trivial temporal dependencies &#40;e.g., parallel plot threads and non-linear plot development&#41;, complex structures which often combine narrative and multi-party dialogs, and a wide variety of styles. Successfully summarizing such texts requires making literary interpretations, conveying implicit information, and heavily paraphrasing the input. This makes summarizing creative documents a challenging task requiring techniques that have not yet been explored in the field.)
 
 ## Proceedings 
-* Proceedings of The Workshop on Automatic Summarization for Creative Writing: https://aclanthology.org/volumes/2022.creativesumm-1/
+* [Proceedings of The Workshop on Automatic Summarization for Creative Writing](https://aclanthology.org/volumes/2022.creativesumm-1/){:target="_blank"}
 
 ## Program Schedule
 October 17th, 2022, Korean Standard Time (GMT+9)
